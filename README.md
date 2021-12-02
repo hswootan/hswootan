@@ -1,4 +1,4 @@
-<h1 align="center">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hong</h1>
+<h1 align="left">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hong</h1>
 
 <img src="/images/tryhackme.png" width="249" height="58" alt="TryHackMe"> 
 <img align="right" alt="GIF" src="https://giphy.com/gifs/coding-logic-programmer-xVRRDVP6lqtNQJrzN7" width="500" height="320"> 
