@@ -6,9 +6,10 @@
 - 🌱 I’m currently learning Ethical Hacking through Tryhackme, Hack The Box. Also learning Python, React and Swift
 - 👯 I’m looking to collaborate on CTF events
 - 💬 Ask me about ... Anything
-<!-- - 📫 How to reach me: ... -->
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have at least 2 cups of coffee everyday
+
+<!-- - 📫 How to reach me: ... -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
