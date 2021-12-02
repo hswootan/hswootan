@@ -1,6 +1,6 @@
 ### Hello !!! I'm Hong 👋
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/hswootan.png" alt="TryHackMe">
+<img src="https://tryhackme.com/badge/299972" alt="TryHackMe">
 
 **hswootan/hswootan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
