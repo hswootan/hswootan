@@ -1,8 +1,6 @@
 ### Hello !!! I'm Hong 👋
 
-<img src="tryhackme.png" alt="TryHackMe">
-
-**hswootan/hswootan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="/images/tryhackme.png" width="249" height="58" alt="TryHackMe">
 
 - 🔭 I’m currently working on my Cybersecurity Degree
 - 🌱 I’m currently learning Python, React and Swift
