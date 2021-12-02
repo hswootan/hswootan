@@ -1,6 +1,6 @@
 ### Hello !!! I'm Hong 👋
 
-<script src="https://tryhackme.com/badge/299972"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/hswootan.png" alt="TryHackMe">
 
 
 <!--
