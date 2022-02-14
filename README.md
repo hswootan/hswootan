@@ -5,9 +5,6 @@
 - 🔭 I’m currently working on my Cybersecurity Degree
 - 🌱 I’m currently learning Ethical Hacking through Tryhackme, Hack The Box. Also learning Python, React and Swift
 - 👯 I’m looking to collaborate on CTF events
-- 💬 Ask me about ... Anything
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have at least 2 cups of coffee everyday
 
 <!-- - 📫 How to reach me: ... -->
 
