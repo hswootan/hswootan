@@ -3,7 +3,7 @@
 <img src="/images/tryhackme.png" width="249" height="58" alt="TryHackMe"> <img align="right" alt="GIF" src="/images/sunmoon.gif" width="400" height="320"> 
 
 - 🔭 I’m currently working on my Cybersecurity Degree
-- 🌱 I’m currently learning Ethical Hacking through Tryhackme, Hack The Box. Also learning Python, React and Swift
+- 🌱 I’m currently learning Ethical Hacking through Tryhackme, Hack The Box, Python, React and Swift
 - 👯 I’m looking to collaborate on CTF events
 
 <!-- - 📫 How to reach me: ... -->
