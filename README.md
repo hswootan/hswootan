@@ -1,4 +1,4 @@
-<img src="/images/tryhackme.png" width="249" height="58" alt="TryHackMe"> <img align="right" alt="GIF" src="/images/sunmoon.gif" width="400" height="320"> 
+<h1 align="left">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hong</h1>
 
 - 🔭 I’m currently working on my Cybersecurity Degree
 - 🌱 I’m currently learning Ethical Hacking through Tryhackme, Hack The Box, Python, React and Swift
