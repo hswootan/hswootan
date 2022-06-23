@@ -1,4 +1,4 @@
-<h1 align="left">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="1px">, I'm Hong</h1>
+Hello!, 👋 I'm Hong
 
 - 🔭 I’m currently working on my Cybersecurity Degree
 - 🌱 I’m currently learning Ethical Hacking through Tryhackme, Hack The Box, Python, React and Swift
