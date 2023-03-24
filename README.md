@@ -1,7 +1,6 @@
 Hello!, 👋 I'm Hong
 
-- 🔭 I’m currently working on my Cybersecurity Degree
-- 🌱 I’m currently learning Ethical Hacking through Tryhackme, Hack The Box, Python, React and Swift
+- 🌱 I’m currently learning Offensive Security through Hack The Box and Python programming
 - 👯 I’m looking to collaborate on CTF events
 
 <!-- - 📫 How to reach me: ... -->
